@@ -14,3 +14,4 @@ latest news
 edit by dos
 21:42
 edit by idea
+new branch hot_fix
